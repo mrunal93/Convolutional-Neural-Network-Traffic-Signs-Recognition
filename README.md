@@ -1,4 +1,4 @@
-# My-Project
+# Jupyter Notebook Project
 
 ### 1. Traffic Signs Recognition Using Convolutional Neural Networ 
 
